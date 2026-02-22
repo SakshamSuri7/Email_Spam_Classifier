@@ -31,6 +31,6 @@ https://saksham-email-spam-classifier.streamlit.app/
 ##  Tech Stack Used
 
 - **Programming Language:** Python  
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, NLTK, Pickle, Matplotlib, Seaborn
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Pickle, Matplotlib, Seaborn
 - **Frontend:** Streamlit  
 - **IDE:** Jupyter Notebook, PyCharm
